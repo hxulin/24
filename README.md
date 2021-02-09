@@ -5,7 +5,7 @@
 
 [维基百科 - 24点](https://zh.wikipedia.org/wiki/24%E7%82%B9)
 
-[四数理类](https://www.4shu.net/theory/)
+[四数理论](https://www.4shu.net/theory/)
 
 [https://github.com/auntyellow/24](https://github.com/auntyellow/24)
 
